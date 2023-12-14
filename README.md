@@ -1,2 +1,2 @@
 These Jupyter notebooks are intended for use in the WUR course Automation in Food.
-Material from Prof. Jeffrey Kantor was used to develop the notebooks here url = https://github.com/jckantor
+Material from the late Prof. Jeffrey Kantor's Chemical Process Control course was used to develop the notebook on PID control (https://github.com/jckantor).
